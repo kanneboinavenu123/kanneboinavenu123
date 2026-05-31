@@ -7,10 +7,6 @@
 
 <!-- SECTION A: ANIMATED HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Kanneboina+Venu+👋;React+Developer+%7C+Frontend+Enthusiast;Building+clean+UIs+one+component+at+a+time;Turning+ideas+into+beautiful+web+apps+🚀" alt="Typing SVG" />
-</div>
-
-<div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
   <strong>Welcome to my GitHub Profile!</strong>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
@@ -111,7 +107,4 @@ I'm always open to interesting conversations, collaboration opportunities, and n
 ---
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+⭐+Star+my+repos+if+you+find+them+helpful!" alt="Footer Typing" />
-
-*"Code is like humor. When you have to explain it, it's bad." — Cory House*
-
 </div>
