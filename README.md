@@ -90,16 +90,6 @@ With **7 months** of hands-on development experience, I've been sharpening my sk
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanneboinavenu123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
----
-
-<!-- SECTION F: GITHUB TROPHIES -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kanneboinavenu123&theme=darkhub&no-frame=true&no-bg=false&margin-w=6&row=1" alt="GitHub Trophies" />
-</div>
-
----
 
 <!-- SECTION H: FOOTER -->
 ## 🤝 Let's Connect!
