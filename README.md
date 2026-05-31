@@ -107,6 +107,6 @@ I'm always open to interesting conversations, collaboration opportunities, and n
 ---
 
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
-  <strong>Thanks For Visying My Profile!</strong>
+  <strong>Thanks For Visting My Profile!</strong>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
 </div>
