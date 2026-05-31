@@ -106,5 +106,7 @@ I'm always open to interesting conversations, collaboration opportunities, and n
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+⭐+Star+my+repos+if+you+find+them+helpful!" alt="Footer Typing" />
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
+  <strong>Thanks For Visying My Profile!</strong>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
 </div>
